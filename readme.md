@@ -1,4 +1,5 @@
 # git course
 it is useful
 
-# this is from bugs
+# this is from features 
+# this is new features
