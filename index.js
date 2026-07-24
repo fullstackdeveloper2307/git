@@ -1,5 +1,4 @@
-console.log("welcome to the git course");
-
-for(let i=0; i<5; i++){
-    console.log("akki");
+console.log("welcome to the git playlist");
+for(let i=0;i,5;i++){
+    console.log('akash');
 }
